@@ -1,0 +1,696 @@
+{
+    "status": "Success",
+    "response": [
+      {
+        "productCategory": "Edu Campus Ops",
+        "icon": "EduCampusOps",
+        "productDetails": [
+          {
+            "productId": 1,
+            "productName": "Enquiries",
+            "productIconPath": "Enquiries",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Enquiries",
+            "description": ""
+          },
+          {
+            "productId": 2,
+            "productName": "Admissions",
+            "productIconPath": "Admissions",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Admissions",
+            "description": ""
+          },
+          {
+            "productId": 3,
+            "productName": "Visitor Info",
+            "productIconPath": "Visitor_info",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Visitor_info"
+          },
+          {
+            "productId": 4,
+            "productName": "Fee Management",
+            "productIconPath": "Fee_Management",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Fee_Management",
+            "description": ""
+          },
+          {
+            "productId": 5,
+            "productName": "Class Schedules",
+            "productIconPath": "Class_Shedules",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Class_Shedules",
+            "description": ""
+          },
+          {
+            "productId": 6,
+            "productName": "Examinations",
+            "productIconPath": "Examinations",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Examinations",
+            "description": ""
+          },
+          {
+            "productId": 7,
+            "productName": "Faculty Management",
+            "productIconPath": "Faculty",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Faculty"
+          },
+          {
+            "productId": 8,
+            "productName": "Hostel",
+            "productIconPath": "Hostel",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Hostel",
+            "description": "Housed in an imposing double storeyed building and located at a central place, Visitors Hostel provides boarding..."
+          },
+          {
+            "productId": 9,
+            "productName": "Library",
+            "productIconPath": "Library",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Library",
+            "description": "A library is a collection of sources of information and similar resources, made accessible to a defined community for reference or borrowing."
+          },
+          {
+            "productId": 10,
+            "productName": "Transport",
+            "productIconPath": "Transport",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Transport",
+            "description": "A transportation management system (TMS) is a subset of supply chain management (SCM) that deals with the planning."
+          },
+          {
+            "productId": 11,
+            "productName": "Canteen",
+            "productIconPath": "Canteen",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Canteen"
+          },
+          {
+            "productId": 12,
+            "productName": "Laundry",
+            "productIconPath": "Laundry",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Laundry"
+          },
+          {
+            "productId": 13,
+            "productName": "e Office",
+            "productIconPath": "e_office",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_office"
+          }
+        ]
+      },
+      {
+        "productCategory": "Finance and Accounts",
+        "icon": "FinanceAndAccounts",
+        "productDetails": [
+          {
+            "productId": 14,
+            "productName": "e Procurements",
+            "productIconPath": "e_Procurements",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_Procurements",
+            "description": "E-procurement is the electronic purchase and sale of goods and services, through an Internet-based platform. It is a tool designed to improve the purchasing process "
+          },
+          {
+            "productId": 15,
+            "productName": "Order Management",
+            "productIconPath": "Orders",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Orders",
+            "description": "Work orders are internally generated company documents to authorize specific work. With our tool you can assign works to service providers  and fix terms and conditions  "
+          },
+          {
+            "productId": 16,
+            "productName": "Fixed Assets",
+            "productIconPath": "Fixed_Assets",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Fixed_Assets"
+          },
+          {
+            "productId": 17,
+            "productName": "MoU Management",
+            "productIconPath": "MoU_Management",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "MoU_Management",
+            "description": ""
+          },
+          {
+            "productId": 18,
+            "productName": "Accounts Payable",
+            "productIconPath": "Accounts_Payable",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Accounts_Payable"
+          },
+          {
+            "productId": 19,
+            "productName": "Vendor Management",
+            "productIconPath": "Vendors",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Vendors",
+            "description": ""
+          },
+          {
+            "productId": 20,
+            "productName": "AP Invoicing",
+            "productIconPath": "AP_invoice",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "AP_invoice"
+          },
+          {
+            "productId": 21,
+            "productName": "Accounts Receivable",
+            "productIconPath": "Accounts_Receivable",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Accounts_Receivable",
+            "description": "Accounts receivable management incorporates is all about ensuring that customers pay their invoices. This tool helps prevent overdue payment or non-payment thereby you "
+          },
+          {
+            "productId": 22,
+            "productName": "Customer Management",
+            "productIconPath": "Customer_Management",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Customer_Management",
+            "description": "Customer management (CRM) software helps automate and manage the customer life cycle of an organization. "
+          },
+          {
+            "productId": 23,
+            "productName": "AR Invoicing",
+            "productIconPath": "AR_invoice",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "AR_invoice"
+          },
+          {
+            "productId": 24,
+            "productName": "e Invoicing",
+            "productIconPath": "e_Invoicing",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_Invoicing"
+          },
+          {
+            "productId": 25,
+            "productName": "Income Tax",
+            "productIconPath": "Income_Tax",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Income_Tax"
+          },
+          {
+            "productId": 26,
+            "productName": "GST",
+            "productIconPath": "GST",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "GST"
+          },
+          {
+            "productId": 27,
+            "productName": "Audit Management",
+            "productIconPath": "Audit",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Audit"
+          },
+          {
+            "productId": 28,
+            "productName": "Treasury",
+            "productIconPath": "Treasury",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Treasury",
+            "description": ""
+          },
+          {
+            "productId": 29,
+            "productName": "General Ledger",
+            "productIconPath": "General_Ledger",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "General_Ledger",
+            "description": ""
+          },
+          {
+            "productId": 30,
+            "productName": "Finance Documents",
+            "productIconPath": "Finance_Documents",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Finance_Documents"
+          },
+          {
+            "productId": 31,
+            "productName": "Reconciliations",
+            "productIconPath": "Reconciliation",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Reconciliation"
+          },
+          {
+            "productId": 33,
+            "productName": "MIS Reports",
+            "productIconPath": "MIS_reports",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "MIS_reports"
+          },
+          {
+            "productId": 86,
+            "productName": "Inventory Management",
+            "productIconPath": "Inventory",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Inventory"
+          },
+          {
+            "productId": 87,
+            "productName": "Warehouse Management",
+            "productIconPath": "WareHouse",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "WareHouse"
+          }
+        ]
+      },
+      {
+        "productCategory": "People Management SPpL©",
+        "icon": "PMLL",
+        "productDetails": [
+          {
+            "productId": 34,
+            "productName": "HeadCount Planning",
+            "productIconPath": "HeadCount",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "HeadCount"
+          },
+          {
+            "productId": 35,
+            "productName": "Recruitments",
+            "productIconPath": "Recruitments",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Recruitments",
+            "description": "Recruitment (hiring) refers to the overall process of attracting, shortlisting, selecting and appointing suitable candidates for jobs"
+          },
+          {
+            "productId": 36,
+            "productName": "On-Boarding",
+            "productIconPath": "OnBoarding",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "OnBoarding"
+          },
+          {
+            "productId": 37,
+            "productName": "Induction",
+            "productIconPath": "Induction",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Induction",
+            "description": ""
+          },
+          {
+            "productId": 38,
+            "productName": "Attendance",
+            "productIconPath": "Attendance",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Attendance"
+          },
+          {
+            "productId": 39,
+            "productName": "Timesheets",
+            "productIconPath": "Time_Sheets",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Time_Sheets"
+          },
+          {
+            "productId": 40,
+            "productName": "Leaves",
+            "productIconPath": "Leaves",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Leaves"
+          },
+          {
+            "productId": 41,
+            "productName": "Payroll",
+            "productIconPath": "Payroll",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Payroll",
+            "description": "A payroll is a companys list of its employees, but the term is commonly used to refer to the total amount of money.."
+          },
+          {
+            "productId": 42,
+            "productName": "Payroll Taxes",
+            "productIconPath": "Payaroll_taxes",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Payaroll_taxes",
+            "description": "A payroll is a companys list of its employees, but the term is commonly used to refer to the total amount of money.."
+          },
+          {
+            "productId": 43,
+            "productName": "Contract Renewals",
+            "productIconPath": "Contract_Renewals",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Contract_Renewals"
+          },
+          {
+            "productId": 44,
+            "productName": "Employee Claims",
+            "productIconPath": "Employee_Claims",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Employee_Claims"
+          },
+          {
+            "productId": 45,
+            "productName": "Performance Appraisal",
+            "productIconPath": "Performance",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Performance"
+          },
+          {
+            "productId": 46,
+            "productName": "e Learn",
+            "productIconPath": "e_Learn",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_Learn"
+          },
+          {
+            "productId": 47,
+            "productName": "e Exit",
+            "productIconPath": "e_Exit",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_Exit"
+          },
+          {
+            "productId": 48,
+            "productName": "HR Documents",
+            "productIconPath": "Hr_documents",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Hr_documents"
+          }
+        ]
+      },
+      {
+        "productCategory": "SOpX ©",
+        "icon": "SOpX",
+        "productDetails": [
+          {
+            "productId": 55,
+            "productName": "Business Intelligence",
+            "productIconPath": "BusinessIntelligence",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "BusinessIntelligence"
+          },
+          {
+            "productId": 56,
+            "productName": "Comparative Reports",
+            "productIconPath": "ComparativeReports",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "ComparativeReports"
+          },
+          {
+            "productId": 57,
+            "productName": "Executive  Dash Boards",
+            "productIconPath": "ExecutiveDashboards",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "ExecutiveDashboards"
+          },
+          {
+            "productId": 58,
+            "productName": "Statutory Reports",
+            "productIconPath": "Statutory_Reports",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Statutory_Reports"
+          }
+        ]
+      },
+      {
+        "productCategory": "Budget and Forecast",
+        "icon": "budgetAndForecast",
+        "productDetails": [
+          {
+            "productId": 67,
+            "productName": "Budgets",
+            "productIconPath": "Budget",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Budget"
+          },
+          {
+            "productId": 68,
+            "productName": "Forecasts",
+            "productIconPath": "Forecast",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Forecast"
+          },
+          {
+            "productId": 69,
+            "productName": "Reporting",
+            "productIconPath": "Reporting",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Reporting"
+          },
+          {
+            "productId": 70,
+            "productName": "Presentations",
+            "productIconPath": "Presentations",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Presentations"
+          }
+        ]
+      },
+      {
+        "productCategory": "STeH ©",
+        "icon": "STeH",
+        "productDetails": [
+          {
+            "productId": 71,
+            "productName": "e Mail",
+            "productIconPath": "e_mail",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_mail"
+          },
+          {
+            "productId": 74,
+            "productName": "e Incident Management",
+            "productIconPath": "e_incidentmanagement",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_incidentmanagement"
+          }
+        ]
+      },
+      {
+        "productCategory": "e Learnings",
+        "icon": "eLearnings",
+        "productDetails": [
+          {
+            "productId": 49,
+            "productName": "Assessments",
+            "productIconPath": "Assessments",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Assessments",
+            "description": "Assessment may refer to: Educational assessment, documenting knowledge, skills, aptitudes, and beliefs; Health assessment, identifies needs of the patient and."
+          },
+          {
+            "productId": 50,
+            "productName": "Assignments",
+            "productIconPath": "Assignments",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Assignments",
+            "description": "Assignment or assign may refer to: Assignment (computer science), a type of modification to a variable; Assignment (education), a task given to students by their."
+          },
+          {
+            "productId": 51,
+            "productName": "e Courses",
+            "productIconPath": "e_courses",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_courses"
+          },
+          {
+            "productId": 52,
+            "productName": "e Projects",
+            "productIconPath": "e_Projects",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "e_Projects"
+          },
+          {
+            "productId": 53,
+            "productName": "Trainings",
+            "productIconPath": "Trainings",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Trainings"
+          },
+          {
+            "productId": 54,
+            "productName": "Placements",
+            "productIconPath": "Placements",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Placements"
+          }
+        ]
+      },
+      {
+        "productCategory": "e Communications",
+        "icon": "eComm",
+        "productDetails": [
+          {
+            "productId": 59,
+            "productName": "Notifications",
+            "productIconPath": "Notifications",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Notifications",
+            "description": ""
+          },
+          {
+            "productId": 60,
+            "productName": "Alerts",
+            "productIconPath": "Alerts",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Alerts",
+            "description": ""
+          },
+          {
+            "productId": 61,
+            "productName": "Annoucements",
+            "productIconPath": "Announcements",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Announcements"
+          },
+          {
+            "productId": 62,
+            "productName": "SMS",
+            "productIconPath": "sms",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "sms",
+            "description": ""
+          },
+          {
+            "productId": 63,
+            "productName": "Discussions",
+            "productIconPath": "Discussions",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Discussions"
+          },
+          {
+            "productId": 64,
+            "productName": "Blogs",
+            "productIconPath": "Blogs",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Blogs"
+          },
+          {
+            "productId": 65,
+            "productName": "Chat",
+            "productIconPath": "chat",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "chat",
+            "description": ""
+          },
+          {
+            "productId": 66,
+            "productName": "Help Desk",
+            "productIconPath": "Helpdesk",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "Helpdesk",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "productCategory": "Data Management Services",
+        "icon": "DMS",
+        "productDetails": [
+          {
+            "productId": 83,
+            "productName": "File Extractor V1",
+            "productIconPath": "File_Extractor_V1",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "File_Extractor_V1"
+          },
+          {
+            "productId": 84,
+            "productName": "File Extractor V2",
+            "productIconPath": "File_Extractor_V2",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "File_Extractor_V2"
+          },
+          {
+            "productId": 85,
+            "productName": "File Extractor V3",
+            "productIconPath": "File_Extractor_V3",
+            "subscriptionType": "Trial",
+            "price": 700.0,
+            "icon": "File_Extractor_V3"
+          }
+        ]
+      }
+    ],
+    "message": "Product Details"
+  }
+  
