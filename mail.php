@@ -2,8 +2,8 @@
 
 if ( $_POST ) {
 
-	$frm_name  = 'Praveen Yalla'; // your name
-	$recepient = 'praveen@example.com'; // your e-mail
+	$frm_name  = '4AT consulting'; // your name
+	$recepient = 'Info@consult-4at.com'; // your e-mail
 	$sitename  = '4AT consulting'; // your site name
 	$subject   = "New contact from \"$sitename\""; // subject template
 
