@@ -2995,7 +2995,7 @@ div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {
   pointer-events: initial;
 }
 .header.opened .logo {
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 
 .header_absolute {
@@ -6285,7 +6285,8 @@ select {
 
 .slider__counter_current {
   position: absolute;
-  left: 20px;
+  top:38px;
+  left: 42px;
   font-size: 48px;
   line-height: 1;
   text-align: left;
